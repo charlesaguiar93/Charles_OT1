@@ -38,3 +38,7 @@ fs.writeFile('ArquivoNovoRenomeado.txt', 'Olá Node.JS! UNISENAI 2023\n', functi
 });
 
 });
+
+/* cd projeto_file ir para a pasta do projeto
+node lerArquivos.js para executar o arquivo no terminal */
+ // node lerArquivos.js roda as rotas do arquivo lerArquivos.js no terminal do VSCode
